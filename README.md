@@ -2,7 +2,7 @@
 
 Tap pixel guppies to earn points. Hit 1000 to claim your WL spot!
 
-**Play:** [onchain-guppies-game.vercel.app](https://onchain-guppies-game.vercel.app)
+**Play:** [onchain-guppies-games.vercel.app](https://onchain-guppies-games.vercel.app)
 
 ## How to Play
 - Tap 🐠 guppy fish to catch them
